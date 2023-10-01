@@ -1,0 +1,5 @@
+django~=4.2.5
+django-ninja
+python-dotenv~=1.0.0
+pydantic~=1.10.13
+django-unfold
